@@ -4,6 +4,5 @@
 * https://github.com/aws-samples/aws-glue-samples/blob/master/examples/join_and_relationalize.md
 
 Glue Dev Endpoints
+* https://docs.aws.amazon.com/glue/latest/dg/author-job.html
 * https://docs.aws.amazon.com/glue/latest/dg/dev-endpoint.html
-* https://docs.aws.amazon.com/glue/latest/dg/dev-endpoint.html
-* https://docs.aws.amazon.com/glue/latest/dg/console-development-endpoint.html
