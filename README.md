@@ -27,7 +27,8 @@ Let’s create an ETL job to extract, transform, and load relevant columns from 
 ## 5. Additional Reading
 Tutorials:
 * Tutorial #2: [Legislators database](https://docs.aws.amazon.com/glue/latest/dg/aws-glue-programming-python-samples-legislators.html)
-- Github repo for [Legislators](https://github.com/aws-samples/aws-glue-samples/blob/master/examples/join_and_relationalize.md)
+  - Github repo for [Legislators](https://github.com/aws-samples/aws-glue-samples/blob/master/examples/join_and_relationalize.md)
+  - [and instructions](https://github.com/aws-samples/aws-glue-samples/issues/2)
 * Tutorial #3: [Medicare Provider payment data](https://github.com/aws-samples/aws-glue-samples/blob/master/examples/join_and_relationalize.md)
 
 Glue Developer Documentation:
